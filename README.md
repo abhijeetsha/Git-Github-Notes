@@ -39,3 +39,42 @@ It allows you to store your repositories online and collaborate with others.
 * git add "filename"
 ### Add all files     
 * git add .                
+
+### 🔹 5. Commit Changes
+* git commit -m "Your commit message"
+
+### 🔹 6. Connect Local Repo to GitHub
+* Create First SSH-key take public-key and add to github, then.
+* ssh-keygen
+* git remote add origin <repository_url>
+
+### 🔹 8. Pull Latest Changes from GitHub
+* git pull origin main
+
+### 🔹 7. Push to GitHub
+* git push -u origin main
+
+### 🔹 9. View Commit History
+* git log
+
+### 🔹 10. Create and Switch Branches
+### Create branch
+* git branch <branch_name>
+### Switch branch   
+* git checkout <branch_name>
+### Merge branch into main
+* git merge <branch_name>
+
+### 🔹 11. Remove Remote Connection
+* git remote remove origin
+
+## 🧾 Common GitHub Flow Example:-
+* git init
+* git add .
+* git commit -m "Initial commit"
+* git branch -M main
+* git remote add origin https://github.com/username/repo.git
+* git pull origin main
+* git push --set-upstream origin main >> for 1st time you pushing.
+* git push -u origin main >> for pushing same dir again and again.
+
