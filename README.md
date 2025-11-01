@@ -75,6 +75,6 @@ It allows you to store your repositories online and collaborate with others.
 * git branch -M main
 * git remote add origin https://github.com/username/repo.git
 * git pull origin main
-* git push --set-upstream origin main >> for 1st time you pushing.
-* git push -u origin main >> for pushing same dir again and again.
+* git push --set-upstream origin main >> for 1st time you pushing git to github.
+* git push -u origin main >> for pushing same dir again and again git to github.
 
