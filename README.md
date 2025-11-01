@@ -36,6 +36,6 @@ It allows you to store your repositories online and collaborate with others.
 
 ### 🔹 4. Add Files to Staging Area
 ### Add a specific file
-* git add <filename>
+* git add "filename"
 ### Add all files     
 * git add .                
