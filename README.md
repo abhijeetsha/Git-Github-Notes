@@ -1,2 +1,19 @@
 # Git-Github-Notes
-Basic Qustion And Answer Of Git And Github
+## What is Git?
+### Ans: Git is an open-source version control system that helps developers track changes in their code and collaborate with others.
+### 💡 In Simple Terms:
+* Git keeps a history of your project, allowing you to go back to any version and work safely in teams without overwriting each other’s work.
+
+### ⚙️ Key Features of Git:
+* Tracks changes in files (especially code)
+* Supports branching and merging
+* Works offline
+* Helps in collaboration with teams
+* Used by tools like GitHub, GitLab, and Bitbucket
+
+### ☁️ What is GitHub?
+* GitHub is a cloud-based hosting platform that uses Git for version control.
+It allows you to store your repositories online and collaborate with others.
+### 💡 In Simple Words:
+* Git is the tool that manages your code history;
+* GitHub is the website where your Git projects live.
