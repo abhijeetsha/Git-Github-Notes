@@ -72,7 +72,7 @@ It allows you to store your repositories online and collaborate with others.
 * git init
 * git add .
 * git commit -m "Initial commit"
-* git branch -M main
+* git branch -m main
 * git remote add origin https://github.com/username/repo.git
 * git pull origin main
 * git push --set-upstream origin main >> for 1st time you pushing git to github.
