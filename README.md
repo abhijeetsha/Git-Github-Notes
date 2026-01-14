@@ -1,6 +1,6 @@
 # Git-Github-Notes
 ## What is Git?
-### Ans: Git is an open-source Distrubuted version control system that helps developers track changes in their code and collaborate with others.
+### Ans: Git is an open-source Distrubuted version control tools that helps developers track changes in their code and collaborate with others.
 ### 💡 In Simple Terms:
 * Git keeps a history of your project, allowing you to go back to any version and work safely in teams without overwriting each other’s work.
 
