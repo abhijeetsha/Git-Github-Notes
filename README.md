@@ -68,7 +68,7 @@ It allows you to store your repositories online and collaborate with others.
 ### 🔹 11. Remove Remote Connection
 * git remote remove origin
 
-## 🧾 Common GitHub Flow Example:-
+## 🧾 Common GitHub Work Flow Example:-
 * git init
 * git add .
 * git commit -m "Initial commit"
